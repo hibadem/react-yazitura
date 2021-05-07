@@ -3,7 +3,7 @@
 
 Öncelikle projeyi clonelayın.
 ```bash
-git clone https://github.com/hibadem/react-odevler.git
+git clone https://github.com/hibadem/react-yazitura.git
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ git clone https://github.com/hibadem/react-odevler.git
 Projeyi cloneladıktan sonra açınız.
 
 ```linux
-cd react-odevler/odev-2
+cd react-yazitura
 ```
 
 Node paketlerini yükleyin
