@@ -1,4 +1,4 @@
-# Kodluyoruz React Ödev-2
+# React Yazi Tura
 ## Installation
 
 Öncelikle projeyi clonelayın.
